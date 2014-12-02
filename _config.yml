@@ -44,7 +44,7 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
+eventDate: "Dec 06 2014"
 typeoutTextValues: '"", "Season", "Vietnam"'
 typeoutFallback: "Season"
 heroButtons:
@@ -56,6 +56,8 @@ aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+
+sponsorsUrl: 'mailto:marketing@gdgvietnam.com?cc=ngansau.action@gmail.com,george.nguyen79@gmail.com'
 
 # Location Block
 locationBlockTitle: "Location"
@@ -73,9 +75,36 @@ eventPlaceCoordinates: "10.723466, 106.715754"
 mapCenterCoordinates: "10.723466, 106.715754"
 mapMobileCenterCoordinates: "10.723466, 106.715754"
 
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Hackathon location"
+hackathonLocationName: "Air Lounge"
+hackathonLocationLink: "#"
+hackathonStreetAddress: "147 Tôn Dật Tiên, Phường Tân Phong, Quận 7, TP.HCM"
+hackathonTimeTitle: "Hack through:"
+hackathonStartTime: "2014-12-06T13:30"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2014-12-06T21:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "10.723466, 106.715754"
+hackathonMapCenterCoordinates: "10.723466, 106.715754"
+hackathonMapMobileCenterCoordinates: "10.723466, 106.715754"
+
+# Workshops Location Block
+workshopLocationBlockTitle: "Workshops location"
+workshopLocationName: "Thanh Nien Media Building"
+workshopLocationLink: "#"
+workshopStreetAddress: "345/134 Trần Hưng Đạo, Cầu Kho, Quận 1, Hồ Chí Minh"
+workshopPostalCode: "79000"
+workshopTimeTitle: "Workshops through:"
+workshopStartTime: "2014-12-06T08:00"
+workshopDoorTime: "09:00"
+workshopEndTime: "2014-12-06T12:00"
+workshopPlaceCoordinates: "10.7610197, 106.6892731"
+
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
 
 # Footer
 socialLinks:
