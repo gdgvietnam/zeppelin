@@ -7,3 +7,4 @@
   group: "With support of"
   elements: 
     - {name: "Vserv", description: "Vserv", link: "http://www.vserv.mobi/vi/", imageUrl: "vserv-new-logo-2014.png"}
+    - {name: "Pokkt", description: "Pokkt", link: "http://www.pokkt.com/", imageUrl: "pokkt.png"}
