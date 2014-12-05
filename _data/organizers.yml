@@ -2,3 +2,4 @@
   group: "Main organizer"
   elements: 
     - {name: "GDG Vietnam", description: "GDG Vietnam - Open and volunteer geek community", link: "http://gdgvietnam.com", imageUrl: "gdg-vn.png"}
+    - {name: "SSF", description: "Silicon Straits Saigon", link: "http://ssf.vn", imageUrl: "ssf.png"}
